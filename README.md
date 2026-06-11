@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Devesh Gupta
 
-<!--
-**deveshusg/deveshusg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Credit Risk Analyst focused on:
 
-Here are some ideas to get you started:
+- IFRS 9
+- Basel Framework
+- Credit Risk Modeling
+- Portfolio Analytics
+- Collections Analytics
+- Statistical Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Flagship Projects
+
+1. Enterprise IFRS 9 Framework
+2. Basel Capital Framework
+3. PIT PD Model
+4. Credit Portfolio Monitoring Suite
+
+Technical Skills
+
+SQL
+Python
+Statistics
+Machine Learning
+Risk Modeling
+Dashboarding
