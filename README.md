@@ -1,26 +1,45 @@
-Hi, I'm Devesh Gupta
+# Hi, I'm Devesh Gupta
 
-Credit Risk Analyst focused on:
+## Credit Risk Analyst
 
-- IFRS 9
-- Basel Framework
-- Credit Risk Modeling
+Specializing in:
+
+- Credit Risk Analytics
 - Portfolio Analytics
 - Collections Analytics
+- IFRS 9
+- Basel Framework
 - Statistical Modeling
 
-Current Flagship Projects
+## Current Focus
 
-1. Enterprise IFRS 9 Framework
-2. Basel Capital Framework
-3. PIT PD Model
-4. Credit Portfolio Monitoring Suite
+Building bank-grade risk analytics projects:
 
-Technical Skills
+- IFRS 9 Retail Lending Framework
+- Basel Capital Framework
+- PIT PD Modeling
+- Portfolio Monitoring Analytics
 
-SQL
-Python
-Statistics
-Machine Learning
-Risk Modeling
-Dashboarding
+## Technical Skills
+
+### Risk & Banking
+- Credit Risk
+- Collections Analytics
+- Portfolio Analytics
+- IFRS 9
+- Basel
+
+### Data
+- SQL
+- Python
+- Statistics
+- Machine Learning
+
+## Current Portfolio Roadmap
+
+| Project | Status |
+|----------|----------|
+| PIT PD Model | In Progress |
+| IFRS 9 Framework | Planned |
+| Basel Framework | Planned |
+| Collections Analytics | Planned |
